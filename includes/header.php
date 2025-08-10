@@ -53,7 +53,7 @@ Bootstrap 5 HTML CSS Template
                  <div class="collapse navbar-collapse" id="navbarNav">
                      <ul class="navbar-nav ms-lg-auto">
                          <li class="nav-item">
-                             <a class="nav-link click-scroll active" href="CafeHome.php">Home</a>
+                             <a class="nav-link click-scroll active" href="index.php">Home</a>
                          </li>
 
                          <li class="nav-item">
