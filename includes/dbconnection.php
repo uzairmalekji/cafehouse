@@ -1,6 +1,6 @@
 <?php
 
-$servername = "localhost";
+$servername = "https://cafehouse.onrender.com/";
 $username = "root";
 $password = "";
 $database = "college_project";

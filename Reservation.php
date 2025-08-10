@@ -78,7 +78,7 @@ Bootstrap 5 HTML CSS Template
             <main>
                 <nav class="navbar navbar-expand-lg">                
                     <div class="container">
-                        <a class="navbar-brand d-flex align-items-center" href="CafeHome.php">
+                        <a class="navbar-brand d-flex align-items-center" href="index.php">
                             <img src="images/coffee-beans.png" class="navbar-brand-image img-fluid" alt="">
                             Coffeehouse.Co
                         </a>
@@ -90,7 +90,7 @@ Bootstrap 5 HTML CSS Template
                         <div class="collapse navbar-collapse" id="navbarNav">
                             <ul class="navbar-nav ms-lg-auto">
                                 <li class="nav-item">
-                                    <a class="nav-link" href="CafeHome.php">Home</a>
+                                    <a class="nav-link" href="index.php">Home</a>
                                 </li>
         
                                 <li class="nav-item">
