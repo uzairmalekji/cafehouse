@@ -1,4 +1,4 @@
-<?php 
+<!-- <?php 
 session_start();
 include('includes/dbconnection.php');
 include("includes/header.php");
@@ -33,7 +33,7 @@ if (empty($name)) {
     // proceed with insert/update
 }
 
-?>
+?> -->
 
 <section class="contact-section section-padding" id="section_5">
     <div class="container">
@@ -45,7 +45,7 @@ if (empty($name)) {
             </div>
 
             <div class="col-lg-6 col-12">
-                <form action="" method="post" class="custom-form contact-form" role="form">
+                <form action="https://formspree.io/f/mqalwlvw" method="post" class="custom-form contact-form" role="form">
                     <div class="row">
                         <div class="col-lg-6 col-12">
                             <label for="name" class="form-label">Name <sup class="text-danger">*</sup></label>

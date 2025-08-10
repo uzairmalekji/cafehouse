@@ -2,7 +2,7 @@
 <html lang="en">
 
 
-<?php 
+<!-- <?php 
 
 session_start();
 include('includes/dbconnection.php');
@@ -36,7 +36,7 @@ if (isset($_GET['ID']) && $_GET['ID'] > 0) {
 }
 
 
-?>
+?> -->
 
 
     <head>
